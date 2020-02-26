@@ -1,0 +1,14 @@
+{
+    "version": "4.4.1",
+    "name": "bootstrap",
+    "title": "Bootstrap",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/bootstrap-library.git",
+    "help": "https://getbootstrap.com/docs/4.4/getting-started/introduction/",
+    "description": "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library",
+    "framework": true,
+    "files": [
+        "bootstrap.min.css",
+        "bootstrap.min.js"
+    ]       
+}
